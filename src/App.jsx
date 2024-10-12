@@ -7,11 +7,11 @@ import Newpage2 from "./components/Newpage2";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/basic/",
       element:<><Newfile /></>
     },
     {
-      path:"file2",
+      path:"/basic/file2",
       element:<><Newpage2 /></>
     }
   ]);

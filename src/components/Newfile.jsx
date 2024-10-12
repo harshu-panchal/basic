@@ -8,7 +8,7 @@ const Newfile = () => {
       <h1>This is a test file</h1>
       <img src="src\assets\snowflake.svg" alt="" />
 
-      <NavLink to="/file2"><span className='logo-text' >Harshvardhan Panchal</span></NavLink>
+      <NavLink to="/basic/file2"><span className='logo-text' >Harshvardhan Panchal</span></NavLink>
 
 
     </div>
