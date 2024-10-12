@@ -6,7 +6,7 @@ const Newfile = () => {
   return (
     <div>
       <h1>This is a test file</h1>
-      <img src="src\assets\snowflake.svg" alt="" />
+      <img src=".\src\assets\snowflake.svg" alt="" />
 
       <NavLink to="/basic/file2"><span className='logo-text' >Harshvardhan Panchal</span></NavLink>
 
