@@ -4,6 +4,12 @@
 
 }
 
+@font-face {
+    font-family: 'Action display';
+    src: url('./assets/f24q3238-action-display-action-display-regular-400.ttf') format('ttf')
+
+}
+
 body{
     background-color: rgb(190, 244, 244);
 }
@@ -15,7 +21,7 @@ div{
 }
 
 span{
-    font-family: 'Montserrat Thin';
+    font-family: 'Action display';
     font-size: 30px;
 }
 
