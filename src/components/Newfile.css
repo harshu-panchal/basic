@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Montserrat Thin';
-    src: url('src/assets/Montserrat-VariableFont_wght.ttf') format('woff2')
+    src: url('./assets/Montserrat-VariableFont_wght.ttf') format('woff2')
 
 }
 
