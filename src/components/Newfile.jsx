@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import './Newfile.css'
-import snow from '/snowflake.svg'
+import snow from '/images/snowflake.svg'
 
 const Newfile = () => {
   return (
